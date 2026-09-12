@@ -2,5 +2,5 @@
 
 Nama : Pasha Dafa Hibatullah 
 Nim : 067
-Kelas : K
+Kelas : B
 
